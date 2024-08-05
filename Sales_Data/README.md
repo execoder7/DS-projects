@@ -64,8 +64,11 @@ To run this project, you need to have Python and the following libraries:
 
 ![c27f17cd-63df-4961-9b69-e40784c15536](https://github.com/user-attachments/assets/2718387c-337c-44be-b51a-b1156fb71732)
 
-- Optimal Advertisement Timing: 
+- Optimal Advertisement Timing:
+  
 ![61fd19af-2b33-4a40-8d07-dedceff552de](https://github.com/user-attachments/assets/799ebc57-e915-4ddd-88e7-21405883382a)
+
+
 ![ed8e4d7c-9831-4891-bd5a-018326a3b027](https://github.com/user-attachments/assets/7a17f287-7ca8-4b20-8221-d512f49eb582)
 
 - Frequently Bought Together Products:
@@ -84,8 +87,13 @@ To run this project, you need to have Python and the following libraries:
 | (Lightning Charging Cable, Wired Headphones)                                             | 129    |
 
 
-- Top-Selling Products: 
+- Top-Selling Products:
+
+  
 ![1d2abfe8-8e42-41d0-8902-a3ec659b618d](https://github.com/user-attachments/assets/868c995e-c30f-4423-b649-3728e4fe5ecb)
+
+
+
 
 
 
