@@ -57,9 +57,11 @@ To run this project, you need to have Python and the following libraries:
 
 
 - Best Month for Sales: 
-  ![d3e0f92b-1eef-46ce-be53-3d386d7f6754](https://github.com/user-attachments/assets/0b35d77a-eac3-4488-9ee9-0d7dfe942ed4)
+
+![d3e0f92b-1eef-46ce-be53-3d386d7f6754](https://github.com/user-attachments/assets/0b35d77a-eac3-4488-9ee9-0d7dfe942ed4)
 
 - City with Highest Sales: 
+
 ![c27f17cd-63df-4961-9b69-e40784c15536](https://github.com/user-attachments/assets/2718387c-337c-44be-b51a-b1156fb71732)
 
 - Optimal Advertisement Timing: 
