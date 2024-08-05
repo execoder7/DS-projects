@@ -93,11 +93,11 @@ To run this project, you need to have Python and the following libraries:
 ![1d2abfe8-8e42-41d0-8902-a3ec659b618d](https://github.com/user-attachments/assets/868c995e-c30f-4423-b649-3728e4fe5ecb)
 
 
-##Conclusion
+## Conclusion
 
 This analysis provides valuable insights into sales performance and customer behavior. Understanding the best month for sales, optimal advertisement timing, and product relationships can help improve marketing strategies and increase revenue.
 
-##License
+## License
 This project is licensed under the MIT License 
 
 
