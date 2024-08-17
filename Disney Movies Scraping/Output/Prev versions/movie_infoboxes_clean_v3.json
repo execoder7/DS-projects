@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Snow White and the Seven Dwarfs",
+        "Directed by": [
+            "Supervising Directors",
+            "David Hand",
+            "Sequence Directors",
+            "Perce Pearce",
+            "William Cottrell",
+            "Larry Morey",
+            "Wilfred Jackson",
+            "Ben Sharpsteen"
+        ],
+        "Story by": "Ted Sears, Richard Creedon, Otto Englander, Dick Rickard, Earl Hurd, Merrill De Maris, Dorothy Ann Blank, Webb Smith",
+        "Based on": [
+            "Snow White",
+            "by the",
+            "Brothers Grimm"
+        ],
+        "Produced by": "Walt Disney",
+        "Music by": "Frank Churchill, Leigh Harline, Paul Smith",
+        "Production company": "Walt Disney Productions",
+        "Distributed by": "RKO Radio Pictures",
+        "Release dates": "December 21, 1937",
+        "Running time": "83 minutes",
+        "Country": "United States",
+        "Language": "English",
+        "Budget": "$1.5 million",
+        "Box office": "$418 million",
+        "Running time(int)": 83,
+        "Box office(float)": 418000000.0,
+        "Budget(float)": 1500000.0,
+        "Release date (Datetime)": 
