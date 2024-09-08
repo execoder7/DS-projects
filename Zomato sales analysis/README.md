@@ -42,30 +42,6 @@ Ensure you have the following libraries installed:
 pip install pandas matplotlib seaborn
 ```
 
-### Running the Analysis
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-2. Load the dataset and run the analysis script:
-
-   ```python
-   import pandas as pd
-   import matplotlib.pyplot as plt
-   import seaborn as sns
-
-   # Load your dataset
-   df = pd.read_csv('zomato_data.csv')
-
-   # Perform analysis and create visualizations
-   # (Include the code for each analysis and plotting)
-   ```
-
-3. View the generated plots and insights.
 
 ## Conclusion
 
@@ -75,12 +51,4 @@ This analysis provides valuable insights into Zomato's customer behavior and res
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Citations:
-[1] https://en.wikipedia.org/wiki/Zomato
-[2] https://www.elluminatiinc.com/how-zomato-works-business-model-revenue-insights/
-[3] https://blog.zomato.com/introducing-zomato-food-trends-data
-[4] https://www.westgateresorts.com/blog/buffets-branson/
-[5] https://www.zomato.com/fine-dining-near-me
-[6] https://www.zomato.com/american-restaurants-near-me
-[7] https://www.zomato.com/fast-food-restaurants-near-me
-[8] https://mandarinrestaurant.com/our-story/
+
